@@ -1,0 +1,23 @@
+{
+  "name": "angular-baidu-maps",
+  "main": "angular-baidu-maps.js",
+  "version": "0.1.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "Baidu Maps as an AngularJS component",
+  "keywords": [
+    "baidu",
+    "angular",
+    "maps"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-baidu-maps",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
